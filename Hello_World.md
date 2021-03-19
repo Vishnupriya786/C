@@ -6,3 +6,8 @@ main(){
 	printf("Hello World!");
 }
 ```
+
+```
+OUTPUT:
+Hello World!
+```
