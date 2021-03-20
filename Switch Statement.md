@@ -11,6 +11,8 @@ int main(){
 		case 6:
 			printf("%d",Number);
 			break;
+		default:
+			printf("Not a valid number");
 	}
 	return 0;
 }
